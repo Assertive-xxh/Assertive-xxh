@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="230" viewBox="0 0 846 230" role="img" aria-labelledby="t d">
+  <title id="t">Yang Hao</title>
+  <desc id="d">Software developer exploring LLM agents, developer tools and data libraries.</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font-size: 32px; font-weight: 600; fill: #1f2328; }
+    .tag  { font-size: 15px; fill: #59636e; }
+    .chip { font-size: 12px; fill: #1f2328; }
+    .k    { font-size: 13px; fill: #59636e; }
+    .v    { font-size: 13px; fill: #1f2328; }
+    .p    { font-size: 13px; fill: #0969da; }
+  </style>
+  <rect x="0.5" y="0.5" width="845" height="229" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+
+  <text x="40" y="84" class="sans name">Yang Hao</text>
+  <text x="40" y="118" class="sans tag">Exploring LLM agents, developer tools and</text>
+  <text x="40" y="140" class="sans tag">data libraries, then building with them.</text>
+
+  <g class="mono">
+    <rect x="40" y="166" width="50" height="26" rx="13" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="65" y="183" class="chip" text-anchor="middle">Java</text>
+    <rect x="98" y="166" width="64" height="26" rx="13" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="130" y="183" class="chip" text-anchor="middle">Python</text>
+    <rect x="170" y="166" width="36" height="26" rx="13" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="188" y="183" class="chip" text-anchor="middle">Go</text>
+    <rect x="214" y="166" width="92" height="26" rx="13" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="260" y="183" class="chip" text-anchor="middle">TypeScript</text>
+  </g>
+
+  <line x1="420" y1="40" x2="420" y2="190" stroke="#d0d7de"/>
+
+  <g class="mono">
+    <text x="448" y="62"><tspan class="p">~ $</tspan><tspan x="484" class="v">whoami</tspan></text>
+    <text x="448" y="92"><tspan class="k">focus</tspan><tspan x="528" class="v">llm agents · dev tools · data libs</tspan></text>
+    <text x="448" y="116"><tspan class="k">merged</tspan><tspan x="528" class="v">floci · ag2 · teamai-cli</tspan></text>
+    <text x="448" y="140"><tspan x="528" class="v">quarkus-langchain4j</tspan></text>
+    <text x="448" y="164"><tspan class="k">based</tspan><tspan x="528" class="v">singapore</tspan></text>
+    <text x="448" y="194"><tspan class="p">~ $</tspan></text>
+    <rect x="480" y="183" width="8" height="14" fill="#0969da"/>
+  </g>
+</svg>
